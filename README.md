@@ -1,2 +1,3 @@
 # image-optimization-test
-Repository to testing with image codecs
+
+Repository with images to testing with image codecs
